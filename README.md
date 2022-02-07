@@ -4,7 +4,7 @@ Le but du projet intégré d'électricité est de donner l'occasion aux étudian
 
 ## Objectif du projet
 
-L'objectif technique du projet est de réaliser le système de contrôle d'un robot.  Ce robot doit pouvoir se déplacer en ligne droite et effectuer des rotations sur place.  Les déplacements qu'il doit effectuer lui seront communiqués par un PC au moyen d'un canal de communication audio.
+L'objectif technique du projet est de réaliser le système de contrôle d'un robot.  Ce robot doit pouvoir se déplacer en ligne droite et effectuer des rotations sur place.  Les déplacements qu'il doit effectuer lui seront communiqués au moyen d'un canal de communication audio.
 
 Le robot devra réagir à deux ordres :
 
@@ -13,9 +13,13 @@ Le robot devra réagir à deux ordres :
 
 ## Organisation du projet
 
-Le projet s'étale sur 15 séances de 4h.  Il débute par une série d'exercices destinés à vous familiariser avec les microcontrôleurs.  Pour les séances restantes, vous devrez définir votre propre méthode de travail.
+Le projet est divisé en 15 séances de 4h, étalées sur tout le second quadrimestre.  Il a été conçu pour être une équipe de 2 ou 3 étudiants.
 
-Pour vous aider plusieurs documents vous sont fournis :
+Ce projet a également pour but de vous faire réfléchir sur la méthodologie à adopter pour aborder un projet d'ingénierie, vous devrez organiser vous-même votre travail.
+
+Un dépôt Gitub est à votre disposition avec des documents utiles au projet et des exemples de code : <https://github.com/BEAMS-EE/ELECH309>
+
+En particulier, le répertoire "Description du projet" contient les documents qui vous aideront à démarrer :
 
 * L'analyse préliminaire du projet dans laquelle sont décrits et justifiés les choix techniques qui vous sont imposés
 * L'étude du déplacement du robot qui décrit les périphériques utilisés pour interfacer le microcontrôleur aux moteurs et encodeurs du robot, ainsi que le dimensionnement de la régulation que nous vous proposons d'utiliser.
@@ -41,3 +45,4 @@ L’évaluation du projet intégré sera basée sur :
   * Une défense de 10 minutes, présentant les principaux résultats de votre projet
   * Une démonstration du robot
   * Une séance de questions/réponses
+  * Cette évaluation se fera durant la session de Juin
