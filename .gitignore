@@ -1,2 +1,15 @@
 
 *.pdf
+
+software/*/*/build/
+software/*/*/dist/
+software/*/*/nbproject/private/
+software/*/*/nbproject/Package-*.bash
+software/*/*/nbproject/Makefile-default.mk
+software/*/*/nbproject/Makefile-genesis.properties
+software/*/*/nbproject/Makefile-impl.mk
+software/*/*/nbproject/Makefile-local-default.mk
+software/*/*/nbproject/Makefile-variables.mk
+software/*/*/.generated_files
+
+tmp/
