@@ -1,6 +1,3 @@
-
-*.pdf
-
 software/*/*/build/
 software/*/*/dist/
 software/*/*/nbproject/private/
