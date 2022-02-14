@@ -68,7 +68,7 @@ Notre filtre de garde devra respecter les paramètres suivants :
 
 Pour rappel, l'amplitude de la réponse en fréquence d'un filtre de Butterworth est :
 
-![](https://render.githubusercontent.com/render/math?math=||H(j\omega)|| = \sqrt{\frac{1}{1+(\frac{\omega}{\omega_c})^{2n}}})
+![](https://render.githubusercontent.com/render/math?math=||H(j\omega)||=\sqrt{\frac{1}{1+(\frac{\omega}{\omega_c})^{2n}}})
 
 où n est l'ordre du filtre et c sa pulsation de coupure.
 
