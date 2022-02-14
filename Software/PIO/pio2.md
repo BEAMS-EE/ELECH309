@@ -6,7 +6,7 @@ Dans cet exemple, on veut que la LED s'allume lorsque'un bouton est enfoncé et 
 
 Nous allons donc ajouter un bouton au circuit de *pio1.X* pour pouvoir interagir avec le dsPIC :
 
-[Schéma de pio2.X](img/pio2Schematic.png)
+![Schéma de pio2.X](img/pio2Schematic.png)
 
 Lorsque le bouton est enfoncé, il connecte la patte au 3,3V.  
 Dans le cas contraire, l'état de la patte est défini par R2.  
