@@ -61,14 +61,18 @@
 
 
 int main(void) {
+    
+    int delay = 500;
+    
     TRISBbits.TRISB15 = 0;  // Configure RB15 as a digital output pin
     // Main (infinite) loop
     while(1) {
         LATBbits.LATB15 = 1;    // turn the LED on
-        __delay_ms(500);        // wait for 500ms
+        __delay_ms(delay);        // wait for 500ms
         LATBbits.LATB15 = 0;    // turn the LED off
-        __delay_ms(500);
+        __delay_ms(delay);
     }
+    
     
     return 0;
 }

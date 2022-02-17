@@ -10,3 +10,7 @@ software/*/*/nbproject/Makefile-variables.mk
 software/*/*/.generated_files
 
 tmp/
+
+*.html
+
+*.pdf
