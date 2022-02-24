@@ -44,4 +44,4 @@ La librairie supporte 2 modes de fonctionnement :
 
 Les projets voltmetre1.X et voltmetre2.X contiennent deux implémentations possibles, une pour chaque mode.
 
-Le fonctionnement de l'*ADC* est décrit succintement dans la *datasheet* du dsPIC et plus en détail dans le manuel de référence de la famille dsPIC33F, qui se trouvent sur l'UV.
+Le fonctionnement de l'*ADC* est décrit succintement dans la *datasheet* du dsPIC et plus en détail dans le manuel de référence de la famille dsPIC33F, qui se trouvent sur l'*UV*.
